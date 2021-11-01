@@ -1,0 +1,19 @@
+body {
+    color: #000000;
+    background-color: #EEEBDD;
+    margin-left: 10%;
+    text-align: center;
+    font-family: 'Zen Antique', serif;
+    width: 80%;
+}
+.borderColor {
+    border: 10px solid #D8B6A4;
+    
+}
+.borderPhoto{
+    border-radius: 50%;
+}
+#greenBackground{
+    background-color: green;
+    color: white;
+}
